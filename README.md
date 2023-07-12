@@ -12,7 +12,7 @@ npm i
 ```
 in root, client and server directory.
 
-the run 
+then run 
 ``` 
 npm run develop 
 ```
